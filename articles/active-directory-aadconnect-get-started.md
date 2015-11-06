@@ -29,7 +29,7 @@
 
 The following documentation will help you get started with Azure Active Directory Connect.
 
-## Download Azure AD Connect
+## Download Azure Active Connect
 
 
 
